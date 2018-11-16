@@ -4,7 +4,8 @@ import (
 	"fmt"
 	"io"
 	"log"
-	"net/http"
+	"net/http",
+	"routes.go"
 )
 
 func main() {
